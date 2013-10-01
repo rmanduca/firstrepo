@@ -6,3 +6,6 @@ def newfcn():
 
 def featurefch():
 	print 'what a feeature!!'
+
+def thirdfcn():
+	print "pushing"
