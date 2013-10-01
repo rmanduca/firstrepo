@@ -1,4 +1,5 @@
 print "Hello!"
 
-def whatevs():
-	print "whatever"
+
+def newfcn():
+	print "this is new"
